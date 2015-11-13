@@ -16,4 +16,3 @@ module.exports = (grunt) ->
     Embark.deployContracts env, contractFiles, destFile, chainFile, true, true, (abi) =>
       grunt.file.write(destFile, abi)
       done()
-
