@@ -10,7 +10,7 @@
   "license": "ISC",
   "homepage": "",
   "dependencies": {
-    "embark-framework": "git@github.com:dummymarket/embark-framework.git#develop",
+    "embark-framework": "https://github.com/SafeMarket/embark-framework.git#develop",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-coffee": "^0.13.0",
     "grunt-contrib-concat": "^0.5.1",
